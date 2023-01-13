@@ -3,7 +3,12 @@ guid: 1652dfd39b1ada6448f902d84ff91a75
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Result: {instanceID: 0}
+  - AIChoice: {instanceID: 0}
+  - Rock: {fileID: 574528035, guid: d2a6d2370f026ed4fa52eb8912eb0b82, type: 3}
+  - Paper: {fileID: 563351349, guid: d2a6d2370f026ed4fa52eb8912eb0b82, type: 3}
+  - Scissors: {fileID: -193445070, guid: d2a6d2370f026ed4fa52eb8912eb0b82, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
